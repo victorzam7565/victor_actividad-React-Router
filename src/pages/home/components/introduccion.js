@@ -21,27 +21,27 @@ const div = {
         <Jumbotron>
           <img src={imagenBebe} style={div} />
   
-          <h2>Fotos de bebes</h2>
+          <h2>Fotos de bebes actividad victor</h2>
         </Jumbotron>
         <Carousel>
           <Carousel.Item>
             <img src={bebe1} alt="First slide" width="400" height="600" />
             <Carousel.Caption>
-              <h3>BEBE NUMERO 1</h3>
+              <h3>Baby  1</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src={bebe2} alt="Third slide" width="400" height="600" />
   
             <Carousel.Caption>
-              <h3>BEBE NUMERO 2</h3>
+              <h3>Baby 2</h3>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img src={bebe3} alt="Third slide" width="400" height="600" />
   
             <Carousel.Caption>
-              <h3>BEBE NUMERO 3</h3>
+              <h3>Baby 3</h3>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
